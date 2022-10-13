@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramees-kr
+- 👋 Hi, I’m Ramees
 - 👀 I’m interested in automating stuff.
 - 🌱 I’m currently learning devops technologies and Python 
 - 💞️ I’m looking to collaborate on anything to make IT life easier. 
