@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm *Ramees*, a tech enthusiast on the verge of conquering the final frontier of my *IT program* at **Humber College, Toronto**. 
+Hey there! 👋 I'm *Ramees*, a tech enthusiast on the verge of conquering the final frontier of my *IT program* at **Humber College, Toronto**. 
 
 Holding a *Bachelor's in Engineering* from **Mahatma Gandhi University, Kerala, India**, 🌍 and an *Information Security certificate* from **Indira Gandhi National Open University, Delhi**, I'm ready to plunge into the dynamic realm of **cybersecurity**.
 
