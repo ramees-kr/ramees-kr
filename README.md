@@ -1,9 +1,30 @@
-Hey there! 👋 I'm *Ramees Karolil Rasheed*, a tech enthusiast on the verge of conquering the final frontier of my *IT program* at **Humber College, Toronto**. 
+# 👋 Hello there! I'm Ramees Karolil Rasheed
 
-Holding a *Bachelor's in Engineering* from **Mahatma Gandhi University, Kerala, India**, 🌍 and an *Information Security certificate* from **Indira Gandhi National Open University, Delhi**, I'm ready to plunge into the dynamic realm of **cybersecurity** and **software development**.
+### 🎓 Future Software Engineer (graduating April 2025)  
+Studying Information Technology Solutions at Humber Polytechnic
 
-With nearly three years of hands-on experience providing top-tier technical support to crucial clients at *Infoblox Inc.*—an industry leader in *DNS, DHCP, and IPAM*—I've mastered the art of navigating the complex landscape of *IT challenges*. My journey also took me to *Accenture*, where I wore the hat of an *Application Development Associate*, gaining valuable insights into crafting robust solutions.
+---
 
-As I gear up for my final year starting *September 2024* and eagerly anticipate my graduation in *April 2025*, I'm on the lookout for an exhilarating *co-op or and internship position* for the *summer of 2024*. My *GitHub* is a reflection of my passion for learning and innovation, featuring projects that highlight my expertise in *Information Security* and *IT*.
+## 🌟 About Me
 
-Feel free to explore my digital playground, where I transform ideas into code and tackle real-world problems. Here's to the thrilling journey ahead! 
+I'm all about creating applications that make a real impact! As a developer, I love building projects that merge creativity and functionality, and I'm constantly looking for ways to learn and grow.
+
+**Some highlights so far**:
+- **"Movie.fyi"**: A movie website with TMDB API integration, built using React & Express 🎬🍿  
+- **"Backgrounds Be Gone"**: My project for all the designers out there who hate manual background removal. Built using Python & Java 📸
+
+### 🌱 Currently Developing Skills In:
+  - Java, Spring Boot, React, DevOps, and more!
+
+---
+
+## 🚀 What I'm Excited About Next  
+I'm gearing up for my final semester and looking for a company to sponsor my capstone project! I'm interested in **cloud-based solutions** and **web application security**, and would love to partner with a team that's ready to innovate.
+
+---
+
+Let's connect! [LinkedIn](https://www.linkedin.com/in/rameeskr)
+
+---
+
+If you're looking for a proactive and passionate developer, or just someone to talk tech with, feel free to reach out! 😊
