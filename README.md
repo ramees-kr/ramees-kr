@@ -1,6 +1,6 @@
 <!-- GitHub Profile Header with Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&vCenter=true&width=600&lines=Enterprise+Technical+Support+Engineer+🚀;Networking+%7C+DNS%2C+DHCP%2C+IPAM+%7C+Security;Building+Networking+Tools+with+Go+and+Python+%7C+Cloud+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=600&lines=Enterprise+Technical+Support+Engineer+🚀;Networking+%7C+DNS%2C+DHCP%2C+IPAM+%7C+Security;Building+Networking+Tools+with+Go+and+Python+%7C+Cloud+Automation">
 </p>
 
 ---
