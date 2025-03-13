@@ -20,13 +20,14 @@ Currently, I’m exploring **software-driven networking**—using **Go and Pytho
   <img src="https://github-readme-stats.vercel.app/api?username=ramees-kr&show_icons=true&theme=radical" width="48%">
 </p>
 
+<!--
 ---
 
 ## 🚀 What I'm Working On  
 🔹 **Smart DNS Resolver** – A **recursive DNS resolver** that optimizes query routing, logs network traffic, and provides real-time **analytics using Prometheus & Grafana**.  
 🔹 **Cloud & Security Automation** – Exploring **cloud-native DDI solutions, DNS security, and network visibility**.  
 🔹 **Open-Source Networking Tools** – Experimenting with Go-based projects for **network troubleshooting & monitoring**.  
-
+-->
 ---
 
 ## 🛠️ Technologies & Tools  
