@@ -18,7 +18,6 @@ Currently, I’m exploring **software-driven networking**—using **Go and Pytho
 ## 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramees-kr&show_icons=true&theme=radical" width="48%">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ramees-kr&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
