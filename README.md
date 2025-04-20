@@ -1,71 +1,83 @@
 <!-- GitHub Profile Header with Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=600&lines=Enterprise+Technical+Support+Engineer+🚀;Networking+%7C+DNS%2C+DHCP%2C+IPAM+%7C+Security;Building+Networking+Tools+with+Go+and+Python+%7C+Cloud+Automation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=600&lines=Technical+Support+Engineer+%7C+Aspiring+DevOps+🚀;Building+Network+%26+Infra+Automation+with+Go+and+Python;Learning+by+Doing+%7C+Packet+Guide+Creator+🌐">
 </p>
 
 ---
 
-## 👋 Hi, I'm Ramees!  
+## 👋 Hi, I'm Ramees!
 
-🔹 **Networking Specialist | DNS, DHCP, IPAM | Learning Go & Python for Network Automation**  
+🔹 **Technical Support Engineer @ Infoblox | Aspiring DevOps & Platform Engineer**
 
-I’m an **Enterprise Technical Support Engineer at Infoblox**, passionate about **networking, security, and automation**. My background includes supporting enterprise customers with **DNS, DHCP, and IPAM solutions**, troubleshooting complex networking issues, and improving network security.  
+I'm deeply passionate about **networking, infrastructure automation, observability, and AIOps**. Currently, I support enterprise-grade **DNS, DHCP, and IPAM solutions** at Infoblox, working specifically on the **BloxOne DDI SaaS platform**.
 
-Currently, I’m exploring **software-driven networking**—using **Go and Python** to build automation tools for troubleshooting, monitoring, and network optimization.  
-
----
-
-## 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramees-kr&show_icons=true&theme=radical" width="48%">
-</p>
-
-<!--
----
-
-## 🚀 What I'm Working On  
-🔹 **Smart DNS Resolver** – A **recursive DNS resolver** that optimizes query routing, logs network traffic, and provides real-time **analytics using Prometheus & Grafana**.  
-🔹 **Cloud & Security Automation** – Exploring **cloud-native DDI solutions, DNS security, and network visibility**.  
-🔹 **Open-Source Networking Tools** – Experimenting with Go-based projects for **network troubleshooting & monitoring**.  
--->
----
-
-## 🛠️ Technologies & Tools  
-💻 **Networking:** DNS, DHCP, BGP, OSPF, IPAM  
-🚀 **Programming:** Go, Python, Shell Scripting  
-☁️ **Cloud:** AWS, Azure, Kubernetes, Terraform  
-🔧 **DevOps & Automation:** GitHub Actions, CI/CD, Docker  
-📊 **Monitoring & Security:** Prometheus, Grafana, Logging  
+I believe in **learning by building**—so I've created [Packet Guide](https://packet-guide.com), a structured, publicly documented journey to master DevOps, Platform Engineering, and AIOps.
 
 ---
 
-## 📚 Education & Learning  
+## 🚀 What I'm Building – The Packet Guide
+
+The **Packet Guide** is a comprehensive, phased roadmap where I:
+
+- Build practical automation and monitoring tools in **Python and Go**.
+- Practice Infrastructure as Code (IaC) with **Terraform**.
+- Develop observability stacks using **Prometheus and Grafana**.
+- Integrate log pipelines with **Kafka**.
+- Explore GitOps workflows and resilience strategies.
+- Apply **AI/ML (GPT)** techniques for anomaly detection and runbook generation.
+
+[📚 Explore the full Packet Guide Roadmap](https://github.com/ramees-kr/packet-guide.com)
+
+---
+
+## 🔥 Key Projects & Milestones
+
+| Phase          | Projects                                                                           | Tech Stack                                |
+| -------------- | ---------------------------------------------------------------------------------- | ----------------------------------------- |
+| 🌱 **Phase 1** | DNS A Record Script, DHCP Log Parser, System Docs Generator, DNS CLI Tool          | Python, Go                                |
+| 🔍 **Phase 2** | DNS Validator, DHCP Email Alerts, Static Dashboard, DHCP Tail CLI                  | Python, Go, HTML/CSS/JS                   |
+| ⚙️ **Phase 3** | DNS Terraform Zone, Kafka Log Streamer, Prometheus Exporter, Grafana Panel Builder | Terraform, Go, Prometheus, Kafka, Grafana |
+| 🔄 **Phase 4** | GitOps DNS Repo, PagerDuty Alert Trigger, Kubernetes DNS Exploration               | GitOps, Kubernetes, Go                    |
+| 🧠 **Phase 5** | GPT Runbook Generator, Terraform Module Library, Anomaly Detection with AI         | Terraform, Python, Prometheus, GPT        |
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Networking:** DNS, DHCP, IPAM, BGP, OSPF  
+**Programming:** Go, Python, Shell Scripting  
+**Cloud & Containers:** AWS, Azure, Kubernetes, Terraform, Docker  
+**Monitoring & Observability:** Prometheus, Grafana, Kafka, Elasticsearch  
+**CI/CD & Automation:** GitHub Actions, GitOps, Terraform Cloud  
+**AI & AIOps:** OpenAI GPT, Anomaly Detection
+
+---
+
+## 📚 Education & Continuous Learning
+
 🎓 **Humber College (2023 - 2025)** – Ontario Graduate Certificate in **Information Technology Solutions**  
-🎯 Focus: **Networking, Cloud Computing, Security, and Software Development**  
-
----
-<!--
-## 🏆 Featured Projects  
-🔥 [**Smart DNS Resolver**](https://github.com/your-username/smart-dns-resolver) – A **recursive DNS resolver** with **latency-based forwarding & real-time analytics**.  
-📡 [**Network Monitoring Tool**](https://github.com/your-username/network-monitoring) – A **Go-based tool for tracking DNS traffic & security threats**.  
-💡 More on the way...  
-
----
--->
-## 🎯 What I’m Learning  
-🌱 **Go** – For high-performance network applications  
-🛠️ **Prometheus & Grafana** – For real-time DNS analytics  
-☁️ **Cloud-native DDI Solutions** – To scale enterprise DNS infrastructure  
+📚 Currently pursuing structured learning in DevOps through the Packet Guide roadmap
 
 ---
 
-## 💡 Fun Fact  
-🎮 I love **strategy games, table tennis, and football** when I’m not debugging DNS queries!  
-💬 Always open to discussions about **networking, security, and software automation**!  
+## 🎯 What I’m Currently Learning
+
+🌱 **Advanced Go & Python** – building performant and scalable tools  
+🔍 **Observability & Monitoring** – Prometheus, Grafana dashboards, Kafka pipelines  
+🔄 **GitOps & Infrastructure as Code** – managing infrastructure declaratively via Git  
+🤖 **AIOps & Automation** – GPT-assisted runbooks and anomaly detection
 
 ---
 
-## 📫 Connect with Me  
+## 💡 Fun Facts
+
+🎮 In my downtime, I enjoy **strategy games, table tennis, and football**.
+💬 Always open to chats about **networking, DevOps, infrastructure, and automation**!
+
+---
+
+## 📫 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/rameeskr">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
