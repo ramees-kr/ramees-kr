@@ -1,78 +1,51 @@
-<!-- GitHub Profile Header with Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=600&lines=Technical+Support+Engineer+%7C+Aspiring+DevOps+🚀;Building+Network+%26+Infra+Automation+with+Go+and+Python;Learning+by+Doing+%7C+Packet+Guide+Creator+🌐">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=600&lines=Technical+Support+Engineer+%7C+Learning+by+Building+⚙️;Exploring+Network+%26+Infra+Automation+with+Go+and+Python;Figuring+Things+Out+One+Project+at+a+Time+💡">
 </p>
 
 ---
 
 ## 👋 Hi, I'm Ramees!
 
-🔹 **Technical Support Engineer @ Infoblox | Aspiring DevOps & Platform Engineer**
+**Technical Support Engineer @ Infoblox**
 
-I'm deeply passionate about **networking, infrastructure automation, observability, and AIOps**. Currently, I support enterprise-grade **DNS, DHCP, and IPAM solutions** at Infoblox, working specifically on the **BloxOne DDI SaaS platform**.
+Day-to-day, I help troubleshoot **DNS, DHCP, and IPAM (DDI)** for folks using the **BloxOne DDI SaaS platform**. It's a great way to see how core network services run at scale in the cloud.
 
-I believe in **learning by building**—so I've created [Packet Guide](https://packet-guide.com), a structured, publicly documented journey to master DevOps, Platform Engineering, and AIOps.
-
----
-
-## 🚀 What I'm Building – The Packet Guide
-
-The **Packet Guide** is a comprehensive, phased roadmap where I:
-
-- Build practical automation and monitoring tools in **Python and Go**.
-- Practice Infrastructure as Code (IaC) with **Terraform**.
-- Develop observability stacks using **Prometheus and Grafana**.
-- Integrate log pipelines with **Kafka**.
-- Explore GitOps workflows and resilience strategies.
-- Apply **AI/ML (GPT)** techniques for anomaly detection and runbook generation.
-
-[📚 Explore the full Packet Guide Roadmap](https://github.com/ramees-kr/packet-guide.com)
+Outside of work, I'm driven by a simple idea: **the best way to understand something is to build it**. I'm constantly tinkering with code and infrastructure, turning concepts into small, practical projects. It's how I explore areas like **infrastructure automation, observability, and cloud technologies**.
 
 ---
 
-## 🔥 Key Projects & Milestones
+## 🌱 Learning Through Doing
 
-| Phase          | Projects                                                                           | Tech Stack                                |
-| -------------- | ---------------------------------------------------------------------------------- | ----------------------------------------- |
-| 🌱 **Phase 1** | DNS A Record Script, DHCP Log Parser, System Docs Generator, DNS CLI Tool          | Python, Go                                |
-| 🔍 **Phase 2** | DNS Validator, DHCP Email Alerts, Static Dashboard, DHCP Tail CLI                  | Python, Go, HTML/CSS/JS                   |
-| ⚙️ **Phase 3** | DNS Terraform Zone, Kafka Log Streamer, Prometheus Exporter, Grafana Panel Builder | Terraform, Go, Prometheus, Kafka, Grafana |
-| 🔄 **Phase 4** | GitOps DNS Repo, PagerDuty Alert Trigger, Kubernetes DNS Exploration               | GitOps, Kubernetes, Go                    |
-| 🧠 **Phase 5** | GPT Runbook Generator, Terraform Module Library, Anomaly Detection with AI         | Terraform, Python, Prometheus, GPT        |
+My approach is hands-on. I enjoy taking real-world problems (often inspired by things I see in networking or support) and figuring out how to solve them with code. This usually involves:
 
----
+-   Scripting solutions in **Python** or **Go**.
+-   Trying out tools like **Terraform**, **Docker**, **Prometheus**, or **Redis**.
+-   Seeing how different pieces fit together, from the command line up to SaaS platforms.
+-   Sometimes, even getting **GPT** to help brainstorm or write some code along the way!
 
-## 🛠️ Technologies & Tools
-
-**Networking:** DNS, DHCP, IPAM, BGP, OSPF  
-**Programming:** Go, Python, Shell Scripting  
-**Cloud & Containers:** AWS, Azure, Kubernetes, Terraform, Docker  
-**Monitoring & Observability:** Prometheus, Grafana, Kafka, Elasticsearch  
-**CI/CD & Automation:** GitHub Actions, GitOps, Terraform Cloud  
-**AI & AIOps:** OpenAI GPT, Anomaly Detection
+You'll find various experiments and learning projects here on my GitHub.
 
 ---
 
-## 📚 Education & Continuous Learning
+## 🛠️ Tech I'm Working With & Exploring
 
-🎓 **Humber College (2023 - 2025)** – Ontario Graduate Certificate in **Information Technology Solutions**  
-📚 Currently pursuing structured learning in DevOps through the Packet Guide roadmap
-
----
-
-## 🎯 What I’m Currently Learning
-
-🌱 **Advanced Go & Python** – building performant and scalable tools  
-🔍 **Observability & Monitoring** – Prometheus, Grafana dashboards, Kafka pipelines  
-🔄 **GitOps & Infrastructure as Code** – managing infrastructure declaratively via Git  
-🤖 **AIOps & Automation** – GPT-assisted runbooks and anomaly detection
+-   **Core Networking:** DNS, DHCP, IPAM
+-   **Languages:** Python, Go, Shell Scripting
+-   **Infrastructure & Cloud:** Terraform, Docker, AWS (Basics), Kubernetes (Learning)
+-   **Observability:** Prometheus, Grafana (Learning)
+-   **Automation & Fun:** Git, GitHub Actions, AI/GPT experiments
 
 ---
 
-## 💡 Fun Facts
+## 📚 Background
 
-🎮 In my downtime, I enjoy **strategy games, table tennis, and football**.
-💬 Always open to chats about **networking, DevOps, infrastructure, and automation**!
+🎓 **Humber College (2023 - 2025)** – Ontario Graduate Certificate in **Information Technology Solutions**
+
+---
+
+## 💡 Always Curious
+
+I'm always exploring ways to automate tasks, visualize data, or just build something interesting. Currently spending time digging deeper into **Go for CLI tools**, **Python for automation**, and the fundamentals of **monitoring stacks**.
 
 ---
 
