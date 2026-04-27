@@ -1,51 +1,45 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=600&lines=Technical+Support+Engineer+%7C+Learning+by+Building+⚙️;Exploring+Network+%26+Infra+Automation+with+Go+and+Python;Figuring+Things+Out+One+Project+at+a+Time+💡">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=36BCF7&vCenter=true&width=700&lines=Technical+Support+Engineer+%7C+Production+Infrastructure+⚙️;Building+Systems+Tooling+with+Go;Exploring+Observability+%26+Distributed+Systems+💡">
 </p>
 
 ---
 
 ## 👋 Hi, I'm Ramees!
 
-**Technical Support Engineer @ Infoblox**
+**Technical Support Engineer @ Redis**
 
-Day-to-day, I help troubleshoot **DNS, DHCP, and IPAM (DDI)** for folks using the **BloxOne DDI SaaS platform**. It's a great way to see how core network services run at scale in the cloud.
+Day-to-day, I troubleshoot complex production issues—like latency spikes, memory fragmentation, and cluster failovers—for environments running Redis Enterprise and Redis Cloud. My work bridges the gap between customer infrastructure and deep, systems-level debugging across cloud and Kubernetes environments.
 
-Outside of work, I'm driven by a simple idea: **the best way to understand something is to build it**. I'm constantly tinkering with code and infrastructure, turning concepts into small, practical projects. It's how I explore areas like **infrastructure automation, observability, and cloud technologies**.
-
----
-
-## 🌱 Learning Through Doing
-
-My approach is hands-on. I enjoy taking real-world problems (often inspired by things I see in networking or support) and figuring out how to solve them with code. This usually involves:
-
--   Scripting solutions in **Python** or **Go**.
--   Trying out tools like **Terraform**, **Docker**, **Prometheus**, or **Redis**.
--   Seeing how different pieces fit together, from the command line up to SaaS platforms.
--   Sometimes, even getting **GPT** to help brainstorm or write some code along the way!
-
-You'll find various experiments and learning projects here on my GitHub.
+Outside of work, my philosophy is simple: **the best way to understand a system is to break it, measure it, and build tools around it.** I am transitioning my focus toward infrastructure engineering by turning repeated support patterns into code.
 
 ---
 
-## 🛠️ Tech I'm Working With & Exploring
+## 🌱 What I'm Building & Exploring
 
--   **Core Networking:** DNS, DHCP, IPAM
--   **Languages:** Python, Go, Shell Scripting
--   **Infrastructure & Cloud:** Terraform, Docker, AWS (Basics), Kubernetes (Learning)
--   **Observability:** Prometheus, Grafana (Learning)
--   **Automation & Fun:** Git, GitHub Actions, AI/GPT experiments
+My approach is entirely hands-on. I take real-world production symptoms and figure out how to reproduce, solve, or visualize them. Right now, I am heavily focused on:
+
+- **Infrastructure Tooling:** Writing CLIs and automation tools in **Go** to diagnose system health and client behaviors.
+- **Observability:** Building local labs to generate controlled load and visualize RED/USE metrics via **Prometheus** and **Grafana**.
+- **Distributed Systems:** Deepening my understanding of Linux networking, packet analysis (`tcpdump`), and stateful workloads in **Kubernetes**.
+
+You can read about my deep dives into systems debugging, network timeouts, and infrastructure on my technical blog: **[Packet Guide](#)** *(Link your blog here when ready)*.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Core Infrastructure:** Redis, Distributed Systems, Linux, TCP/IP Networking
+- **Languages:** Go, Python, Bash
+- **Observability & Telemetry:** Prometheus, Grafana
+- **Cloud & Orchestration:** Kubernetes, Docker, Azure / AWS basics
+- **Previous Experience:** Enterprise DDI (DNS, DHCP, IPAM) SaaS support
 
 ---
 
 ## 📚 Background
 
 🎓 **Humber College (2023 - 2025)** – Ontario Graduate Certificate in **Information Technology Solutions**
-
----
-
-## 💡 Always Curious
-
-I'm always exploring ways to automate tasks, visualize data, or just build something interesting. Currently spending time digging deeper into **Go for CLI tools**, **Python for automation**, and the fundamentals of **monitoring stacks**.
+💼 **Previously:** Enterprise Technical Support Engineer (SaaS & DDI)
 
 ---
 
